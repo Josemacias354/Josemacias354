@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Josemacias354
-- 👀 I’m interested in HTML/JAVA/CSS/JAVASCRIPT
+- 👀 I’m interested in HTML/JAVA/CSS/JAVASCRIPT/ANGULAR/BOOTSTRAP
 - 🌱 I’m currently learning DAW
 
 
