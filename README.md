@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Josemacias354</h1>
 👀 I’m interested in HTML/JAVA/CSS/JAVASCRIPT/ANGULAR/BOOTSTRAP
+
+
 - 🌱 I’m currently learning DAW
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
